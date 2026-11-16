@@ -4,5 +4,5 @@ Based on [android_device_samsung_sprd-common](https://github.com/j23g/android_de
 
 ### How to clone:
 ```bash
-git clone -b lineage-16-with-many-bugs https://github.com/Vuhased/android_device_samsung_sprd-common device/samsung/sprd-common
+git clone -b lineage-16-without https://github.com/Vuhased/android_device_samsung_sprd-common device/samsung/sprd-common
 ```
